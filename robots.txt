@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://zifafipe.github.io/sitemap/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/Dfh/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/oNU/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/DpF/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/kEl/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/wDY/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/nfd/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/EsD/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/jpk/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/QOu/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/AuE/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/NRw/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/enA/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/veS/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/ysq/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/OSe/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/pDd/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/Bml/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/dKR/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/oVi/sitemap_index.zifafipe
+Sitemap: https://zifafipe.github.io/Pcb/sitemap_index.zifafipe
